@@ -1,6 +1,3 @@
-# hi-codepath
-My first repository on GitHub.
-
 # Flix
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
@@ -34,7 +31,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 **GIF Link from Imgur**
 
-<img src="https://imgur.com/hnKTGlU" width=250><br>
+<img src="https://imgur.com/hnKTGlU.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
